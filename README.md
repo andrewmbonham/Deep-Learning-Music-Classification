@@ -1,4 +1,4 @@
-# Music-Genre-Classification
+# Deep Learning Music Genre Classification
 
 ## Task
 The task here is to analyze music audio files and predict
