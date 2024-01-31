@@ -17,8 +17,7 @@ The following Python packages are required:
 - matplotlib
 - sklearn 
 - tensorflow 
-- glob 
-- lobrosa
+- librosa
 
 To install, run `pip install <package>`
 
