@@ -2,7 +2,7 @@
 
 ## Task
 The task here is to analyze music audio files and predict
-the genre using a convolutional neural network (CNN). 
+the genre using a deep neural network. 
 
 ## Description
 The challenge was solved by using the librosa library to 
